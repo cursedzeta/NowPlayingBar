@@ -156,11 +156,3 @@ Issues y Pull Requests abiertos.
 
 Proyecto bajo licencia MIT.
 
-```
-
-Si querés, en el próximo mensaje puedo:
-- Ajustarlo **exacto al nombre real del repo**
-- Adaptarlo a **inglés**
-- Simplificar aún más para usuarios no técnicos
-- O hacerlo más “pro” para recruiters de GitHub 👌
-```
